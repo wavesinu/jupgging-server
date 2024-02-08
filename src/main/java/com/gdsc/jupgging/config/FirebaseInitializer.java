@@ -11,7 +11,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 
 @Configuration
-public class FirebaseInitialize {
+public class FirebaseInitializer {
 
     @PostConstruct
     public void init() {
